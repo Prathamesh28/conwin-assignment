@@ -6,7 +6,7 @@ import {
   FETCH_USERS_FAIL,
   FETCH_USERS_REQUEST,
   FETCH_USERS_SUCCESS,
-} from "./store/actionTypes";
+} from "../store/actionTypes";
 import UserCard from "./UserCard";
 import { Box } from "@mui/system";
 function UserList() {
